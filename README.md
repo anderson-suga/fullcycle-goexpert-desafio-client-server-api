@@ -83,7 +83,7 @@ Check the database records (optional):
 sqlite3 cotacoes.db "select * from cotacoes;"
 ```
 
-## </br>
+---
 
 </br>
 
